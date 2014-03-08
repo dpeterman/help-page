@@ -5,3 +5,6 @@ span.glyphicon {
     height: 64px;
     width: 64px;
 }
+p {
+    overflow: auto;
+}
